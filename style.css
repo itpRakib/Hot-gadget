@@ -1,0 +1,83 @@
+.container {
+    margin-bottom: 6%;
+}
+
+.top {
+    margin-top: -7%;
+}
+
+.img-logo {
+    width: 60%;
+}
+
+.img-bg {
+    background-image: url(Images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70px;
+}
+
+.buy-now-button {
+    background-color: black;
+    border-radius: 7px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 9px 23px;
+}
+
+p {
+    color: gray;
+    text-align: center;
+}
+
+.p {
+    width: 70%;
+}
+
+h1 {
+    width: 70%;
+}
+
+.side-img {
+    margin-top: -170px;
+    margin-bottom: 50px;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h6 {
+    color: orange;
+}
+
+.h1 {
+    margin-left: 45%;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+.categories {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.line {
+    width: 100px;
+    height: 7px;
+    border-radius: 5px;
+    background-color: #f0a020;
+    margin: 10px auto 0;
+}
+
+.bottom {
+    margin-bottom: 2%;
+}
