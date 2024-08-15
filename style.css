@@ -61,8 +61,6 @@ h6 {
 }
 
 
-
-
 .bottom {
     margin-bottom: 2%;
 }
@@ -70,23 +68,7 @@ h6 {
 .footer {
     text-align: center;
     font-size: 15px;
-    margin-bottom: 10px;
-}
-
-
-.c {
-    text-align: center;
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0px 2px 4px gray;
-    padding: 20px;
-    height: 55%;
-}
-
-
-.img {
-    width: 100px;
-    height: 100px;
+    margin-bottom: 20px;
 }
 
 .p {
@@ -97,10 +79,22 @@ h6 {
 }
 
 
-h2 {
+.categories-border {
     text-align: center;
     font-size: 24px;
     font-weight: bold;
+}
+
+.text-center {
+    color: black;
+}
+
+.card-img-top {
+    padding: 30px;
+}
+
+.img-fluid {
+    padding: 30px;
 }
 
 .line {
@@ -109,4 +103,5 @@ h2 {
     background: linear-gradient(to right, orange, rgb(230, 230, 11));
     margin: 10px auto 0;
     border-radius: 10px;
+   margin-bottom: 50%;
 }
